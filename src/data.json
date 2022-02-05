@@ -1,0 +1,120 @@
+{
+  "across": {
+    "2": {
+      "clue": "City of ____",
+      "answer": "STARS",
+      "row": 3,
+      "col": 8
+    },
+    "9": {
+      "clue": "An ingredient every salad should have.",
+      "answer": "ONIONS",
+      "row": 7,
+      "col": 6
+    },
+    "10": {
+      "clue": "Alex's personality, at times.",
+      "answer": "TED",
+      "row": 8,
+      "col": 1
+    },
+    "12": {
+      "clue": "First song ever played on a celestial body besides earth.",
+      "answer": "FLYMETOTHEMOON",
+      "row": 10,
+      "col": 4
+    },
+    "14": {
+      "clue": "Natural feature of Athabasca, AB.",
+      "answer": "GLACIER",
+      "row": 12,
+      "col": 1
+    },
+    "17": {
+      "clue": "Activity that we will never, ever do together.",
+      "answer": "RUNNING",
+      "row": 15,
+      "col": 7
+    },
+    "18": {
+      "clue": "Classy cocktail made with gin.",
+      "answer": "MARTINI",
+      "row": 16,
+      "col": 1
+    },
+    "19": {
+      "clue": "Game that can only be won by two people with an insane connection.",
+      "answer": "THEMIND",
+      "row": 17,
+      "col": 7
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "An ingredient every salad should have.",
+      "answer": "NUTS",
+      "row": 0,
+      "col": 8
+    },
+    "3": {
+      "clue": "Popular February flower.",
+      "answer": "ROSES",
+      "row": 3,
+      "col": 11
+    },
+    "4": {
+      "clue": "An ingredient every salad should have.",
+      "answer": "CHEESE",
+      "row": 5,
+      "col": 13
+    },
+    "5": {
+      "clue": "One of my favorite qualities in you, that I hope you never lose.",
+      "answer": "DRIVEN",
+      "row": 5,
+      "col": 17
+    },
+    "6": {
+      "clue": "Sweet nectar.",
+      "answer": "HONEY",
+      "row": 6,
+      "col": 6
+    },
+    "7": {
+      "clue": "Romantic location, not far from home.",
+      "answer": "ROOFTOP",
+      "row": 6,
+      "col": 9
+    },
+    "8": {
+      "clue": "Spirit best enjoyed on a kitchen counter.",
+      "answer": "TEQUILA",
+      "row": 7,
+      "col": 2
+    },
+    "11": {
+      "clue": "Always a good reason to talk to each other, despite the circumstances.",
+      "answer": "COVID",
+      "row": 9,
+      "col": 15
+    },
+    "13": {
+      "clue": "Festive cocktail made with tequila.",
+      "answer": "MARGARITA",
+      "row": 10,
+      "col": 7
+    },
+    "15": {
+      "clue": "Drink best enjoyed by a fireplace.",
+      "answer": "ICEWINE",
+      "row": 12,
+      "col": 5
+    },
+    "18": {
+      "clue": "Alex's personality, at times.",
+      "answer": "BARNEY",
+      "row": 14,
+      "col": 3
+    }
+  }
+}
