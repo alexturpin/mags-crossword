@@ -26,3 +26,35 @@ body {
 .guess-text-correct {
   fill: #0b50e3 !important;
 }
+
+.completed-modal {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border-radius: 6px;
+  font-size: 50px;
+  background-color: white;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.completed-modal a {
+  color: #393939
+}
+
+.completed-modal a:hover {
+  color: #636363
+}
+
+.completed-modal div {
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+}
+
+.controls {
+  font-size: 15px;
+  margin-bottom: 20px;;
+}
