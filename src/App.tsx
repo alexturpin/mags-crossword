@@ -44,7 +44,7 @@ function App() {
         <a href="#" onClick={() => setCompletedClosed(true)}><i className="fas fa-times"></i></a>
       </div>
       <div>
-        <span>✌️</span>
+        <span>EZ PZ ✌️</span>
         <a target="_blank" href="https://photos.app.goo.gl/pqugBMGzyoV1XQD27"><i className="fas fa-images"></i></a>
         <a target="_blank" href="https://open.spotify.com/playlist/0qj5aKdIapo0zcOPWv0yWK?si=dR9jJfFzT2apwyQVpZuCjQ"><i className="fab fa-spotify"></i></a>
       </div>
